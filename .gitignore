@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data (do not publish)
+data/
